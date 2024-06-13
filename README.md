@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sdeveloper8
 - 👀 I’m interested in Web development, currently focusing on Front End Development
 - 🌱 I’m currently practicing on front end
-- 💞️ I’m looking for remote entry level position 
+- 💞️ I’m looking for remote work only
 - 📫 https://www.linkedin.com/in/sushilla-k-b007173b/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
